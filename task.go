@@ -4,4 +4,4 @@ import (
 	"time"
 )
 
-type Task func(now, next time.Time)
+type Task func(prev, next time.Time)
