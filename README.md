@@ -1,4 +1,4 @@
-# pubsub
+# sched
 
 Small task scheduler written in Go.
 
